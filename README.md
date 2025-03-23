@@ -13,7 +13,7 @@
 
 ## Séries que estou aguardando começar:
 
-![logo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs60IFlibKXwJtzqLOjjo6ZgL3ShYtUJng4Q&s](https://blog.insinis.com/wp-content/uploads/2023/04/BLACK-MIRROR-CAPA-1024x576.jpg)
+![logo](https://blog.insinis.com/wp-content/uploads/2023/04/BLACK-MIRROR-CAPA-1024x576.jpg)
 
 
 <!--
