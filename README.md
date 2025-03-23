@@ -1,4 +1,3 @@
-![logo](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 ## "O conhecimento rende os melhores juros" 
 ## "Entusiasta da tecnologia"
 " X.Y=O onde x= trabalho e competência, y=conhecimento e o= objetivo" 
@@ -40,7 +39,7 @@ Informática avançada
 
 ## Série que estou aguardando em 2025:
 
-![logo](https://blog.insinis.com/wp-content/uploads/2023/04/BLACK-MIRROR-CAPA-1024x576.jpg)
+![logo](https://media.giphy.com/media/12xSRvZYyaVk2s/giphy.gif?cid=790b76116dhwqibdfxmsc9mbyh5jjuro1mbyx6dw6s9isruv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 <!--
