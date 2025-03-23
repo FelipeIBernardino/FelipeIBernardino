@@ -11,8 +11,7 @@
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
 Séries que estou aguardando começar:
-![Logo](<iframe width="853" height="480" src="https://www.youtube.com/embed/1iqra1ojEvM" title="Black Mirror: Season 7 | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
-
+![Logo](https://youtu.be/1iqra1ojEvM)
 
 
 
