@@ -11,7 +11,7 @@
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
 Séries que estou aguardando começar:
-v=(https://youtu.be/1iqra1ojEvM?feature=shared)
+[![]](https://youtu.be/1iqra1ojEvM?feature=shared)
 
 
 
