@@ -7,11 +7,13 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-**1° fase estudando HTML**
+##**1° fase estudando HTML**
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
 Séries que estou aguardando começar:
 ![](https://youtu.be/1iqra1ojEvM?feature=shared)
+
+[MIT](https://youtu.be/1iqra1ojEvM?feature=shared)
 
 
 
