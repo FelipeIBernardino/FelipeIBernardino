@@ -11,8 +11,7 @@
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
 Séries que estou aguardando começar:
-![Logo](https://youtu.be/1iqra1ojEvM)
-[![IMAGE ALT TEXT HERE](https://youtu.be/1iqra1ojEvM?feature=shared)
+v=(https://youtu.be/1iqra1ojEvM?feature=shared)
 
 
 
