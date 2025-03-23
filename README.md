@@ -11,7 +11,33 @@
 
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
-## Séries que estou aguardando começar:
+
+## Curso que fiz
+
+
+
+```bash
+Informática básica
+```
+
+
+
+```bash
+Informática avançada
+```
+
+
+
+```bash
+ Inglês básico
+```
+
+
+```bash
+ Investimentos no mercado financeiro
+```
+
+## Série que estou aguardando em 2025:
 
 ![logo](https://blog.insinis.com/wp-content/uploads/2023/04/BLACK-MIRROR-CAPA-1024x576.jpg)
 
