@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 ## "O conhecimento rende os melhores juros" 
 ## "Entusiasta da tecnologia"
 " X.Y=O onde x= trabalho e competência, y=conhecimento e o= objetivo" 
