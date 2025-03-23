@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-![Logo](https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2021/12/23/matrix.jpg)
+![Logo](https://m.media-amazon.com/images/S/pv-target-images/32cbdbe4273fdfbb0f88c22efee93bb93975a357a34b7afffb3ec8a2634ced6f.jpg)
 
 
 
