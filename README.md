@@ -13,6 +13,8 @@
 Séries que estou aguardando começar:
 ![Logo](https://youtu.be/1iqra1ojEvM)
 
+[![Watch the video](https://youtu.be/1iqra1ojEvM?feature=shared)
+
 
 
 
