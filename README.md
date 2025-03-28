@@ -43,6 +43,9 @@ Informática avançada
 
 [![Título do Vídeo](https://img.youtube.com/vi/wrXwPmg4AnM/0.jpg)](https://www.youtube.com/watch?v=wrXwPmg4AnM)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrXwPmg4AnM" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!--
 **FelipeIBernardino/FelipeIBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
