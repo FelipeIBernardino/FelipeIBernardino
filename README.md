@@ -11,6 +11,18 @@
 
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { background-color: #222; color: white; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Olá, Mundo! 🚀</h1>
+</body>
+</html>
+
 
 ## Curso que fiz
 
@@ -41,10 +53,12 @@ Informática avançada
 
 ![logo](https://media.giphy.com/media/12xSRvZYyaVk2s/giphy.gif?cid=790b76116dhwqibdfxmsc9mbyh5jjuro1mbyx6dw6s9isruv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+## Conteúdo que estudei esta semana:
+
 [![Título do Vídeo](https://img.youtube.com/vi/wrXwPmg4AnM/0.jpg)](https://www.youtube.com/watch?v=wrXwPmg4AnM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wrXwPmg4AnM" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <!--
 **FelipeIBernardino/FelipeIBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
