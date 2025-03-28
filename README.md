@@ -11,17 +11,7 @@
 
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body { background-color: #222; color: white; text-align: center; }
-    </style>
-</head>
-<body>
-    <h1>Olá, Mundo! 🚀</h1>
-</body>
-</html>
+ [
 
 
 ## Curso que fiz
