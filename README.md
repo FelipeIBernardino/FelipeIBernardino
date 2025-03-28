@@ -11,7 +11,6 @@
 
 ![logo](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 
- [
 
 
 ## Curso que fiz
