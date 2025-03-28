@@ -41,6 +41,7 @@ Informática avançada
 
 ![logo](https://media.giphy.com/media/12xSRvZYyaVk2s/giphy.gif?cid=790b76116dhwqibdfxmsc9mbyh5jjuro1mbyx6dw6s9isruv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=wrXwPmg4AnM)
 
 <!--
 **FelipeIBernardino/FelipeIBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
